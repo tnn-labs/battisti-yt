@@ -1,4 +1,4 @@
-// 1 - promises
+// promises
 // promise based => then e catch`s
 import loadSomeData from "./loadSomeData.js";
 
